@@ -1,22 +1,26 @@
 export const menu = {
   1: {
-    description: 'Leite Ninho',
+    description: 'Açaí 300ml',
     price: 6,
   },
   2: {
-    description: 'Alpino',
+    description: 'Açaí 500ml',
     price: 6,
   },
   3: {
-    description: 'Prestígio',
+    description: 'Cupuaçu 300ml',
     price: 6,
   },
   4: {
-    description: 'Abacaxi',
+    description: 'Cupuaçu 500ml',
     price: 6,
   },
   5: {
-    description: 'Dois Amores',
+    description: 'Vitamina 300ml',
+    price: 6,
+  },
+  6: {
+    description: 'Vitamina 500ml',
     price: 6,
   },
 }
